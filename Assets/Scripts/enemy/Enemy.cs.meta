@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 24a6c8ef6231a524f96758fde23c515d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hurt_sound: {instanceID: 0}
+  - death_sound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
